@@ -1,0 +1,33 @@
+body {background-color:#FFCCFF;
+    font-family: Verdana, Arial, sans-serif;}
+    
+    
+h2 { font-family: Verdana, Arial, sans-serif;
+     color:#000000;}
+
+#wrapper { background-color: #CCCCCC; 
+    color: #FFCCFF;
+    width: 80%;
+    margin: auto;
+    min-width: 850px;
+    max-width: 1200px;
+}
+
+ main { display: block; 
+        padding: 3em;
+        background-color: #ffffff;
+        color: #000000;
+ }
+
+header { background-color:#FFCCFF;
+         color: #FFFFFF; 
+         font-size: 150%; 
+         padding: 10px 10px 10px 30px;
+}
+
+
+footer {font-size:70%;
+        text-align: center;
+        clear: right;
+        padding-bottom:20px;
+}
